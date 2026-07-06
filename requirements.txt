@@ -9,3 +9,4 @@ openpyxl
 streamlit-agraph
 shapely
 geopandas
+matplotlib
