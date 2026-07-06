@@ -1,0 +1,1794 @@
+{
+    "Aceh": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Aceh",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 11,
+                    "JUMLAH_KEJADIAN": 39.0,
+                    "MENINGGAL": 3,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 4,
+                    "MENDERITA_MENGUNGSI": 4492,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Aceh",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 11,
+                    "JUMLAH_KEJADIAN": 139.0,
+                    "MENINGGAL": 568,
+                    "HILANG": 29,
+                    "LUKA_SAKIT": 4324,
+                    "MENDERITA_MENGUNGSI": 1825774,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "ACEH",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 332,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 79,
+                    "PERLENGKAPAN_KESELAMATAN": 317,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 472,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 2491,
+                    "JUMLAH_DESA": 6513,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.051,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.012,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.049,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.072,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.382
+                }
+            ]
+        }
+    },
+    "Sumatera Utara": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Sumatera Utara",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 12,
+                    "JUMLAH_KEJADIAN": 47.0,
+                    "MENINGGAL": 11,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 5,
+                    "MENDERITA_MENGUNGSI": 41248,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Sumatera Utara",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 12,
+                    "JUMLAH_KEJADIAN": 221.0,
+                    "MENINGGAL": 385,
+                    "HILANG": 41,
+                    "LUKA_SAKIT": 258,
+                    "MENDERITA_MENGUNGSI": 1973950,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "SUMATERA UTARA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 203,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 17,
+                    "PERLENGKAPAN_KESELAMATAN": 237,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 248,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 1598,
+                    "JUMLAH_DESA": 6113,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.033,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.003,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.039,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.041,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.261
+                }
+            ]
+        }
+    },
+    "Sumatera Barat": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Sumatera Barat",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 13,
+                    "JUMLAH_KEJADIAN": 8.0,
+                    "MENINGGAL": 1,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 6,
+                    "MENDERITA_MENGUNGSI": 9993,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Sumatera Barat",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 13,
+                    "JUMLAH_KEJADIAN": 83.0,
+                    "MENINGGAL": 268,
+                    "HILANG": 70,
+                    "LUKA_SAKIT": 385,
+                    "MENDERITA_MENGUNGSI": 330770,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "SUMATERA BARAT",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 250,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 92,
+                    "PERLENGKAPAN_KESELAMATAN": 328,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 340,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 708,
+                    "JUMLAH_DESA": 1287,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.194,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.071,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.255,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.264,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.55
+                }
+            ]
+        }
+    },
+    "Riau": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Riau",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 14,
+                    "JUMLAH_KEJADIAN": 33.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 2446,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Riau",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 14,
+                    "JUMLAH_KEJADIAN": 243.9488,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 1,
+                    "MENDERITA_MENGUNGSI": 197468,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "RIAU",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 228,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 663,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 306,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 1059,
+                    "JUMLAH_DESA": 1870,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.122,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.355,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.164,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.566
+                }
+            ]
+        }
+    },
+    "Jambi": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Jambi",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 15,
+                    "JUMLAH_KEJADIAN": 9.0,
+                    "MENINGGAL": 2,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 1,
+                    "MENDERITA_MENGUNGSI": 37397,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Jambi",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 15,
+                    "JUMLAH_KEJADIAN": 45.0,
+                    "MENINGGAL": 3,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 2,
+                    "MENDERITA_MENGUNGSI": 32984,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "JAMBI",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 93,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 165,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 53,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 626,
+                    "JUMLAH_DESA": 1586,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.059,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.104,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.033,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.395
+                }
+            ]
+        }
+    },
+    "Sumatera Selatan": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Sumatera Selatan",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 16,
+                    "JUMLAH_KEJADIAN": 35.0,
+                    "MENINGGAL": 1,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 2,
+                    "MENDERITA_MENGUNGSI": 171631,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Sumatera Selatan",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 16,
+                    "JUMLAH_KEJADIAN": 103.477,
+                    "MENINGGAL": 4,
+                    "HILANG": 1,
+                    "LUKA_SAKIT": 5,
+                    "MENDERITA_MENGUNGSI": 242088,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "SUMATERA SELATAN",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 95,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 237,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 50,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 952,
+                    "JUMLAH_DESA": 3285,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.029,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.072,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.015,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.29
+                }
+            ]
+        }
+    },
+    "Bengkulu": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Bengkulu",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 17,
+                    "JUMLAH_KEJADIAN": 12.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 35535,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Bengkulu",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 17,
+                    "JUMLAH_KEJADIAN": 17.0,
+                    "MENINGGAL": 1,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 2,
+                    "MENDERITA_MENGUNGSI": 16257,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "BENGKULU",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 78,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 14,
+                    "PERLENGKAPAN_KESELAMATAN": 108,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 235,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 358,
+                    "JUMLAH_DESA": 1513,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.052,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.009,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.071,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.155,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.237
+                }
+            ]
+        }
+    },
+    "Lampung": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Lampung",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 18,
+                    "JUMLAH_KEJADIAN": 28.0,
+                    "MENINGGAL": 2,
+                    "HILANG": 2,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 15102,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Lampung",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 18,
+                    "JUMLAH_KEJADIAN": 122.0,
+                    "MENINGGAL": 14,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 291400,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "LAMPUNG",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 258,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 13,
+                    "PERLENGKAPAN_KESELAMATAN": 214,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 225,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 1155,
+                    "JUMLAH_DESA": 2654,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.097,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.005,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.081,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.085,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.435
+                }
+            ]
+        }
+    },
+    "Kepulauan Bangka Belitung": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Kepulauan Bangka Belitung",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 19,
+                    "JUMLAH_KEJADIAN": 4.0,
+                    "MENINGGAL": 7,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 0,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Kepulauan Bangka Belitung",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 19,
+                    "JUMLAH_KEJADIAN": 18.0,
+                    "MENINGGAL": 3,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 2,
+                    "MENDERITA_MENGUNGSI": 4814,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "KEPULAUAN BANGKA BELITUNG",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 46,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 1,
+                    "PERLENGKAPAN_KESELAMATAN": 84,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 59,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 197,
+                    "JUMLAH_DESA": 393,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.117,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.003,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.214,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.15,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.501
+                }
+            ]
+        }
+    },
+    "Kepulauan Riau": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Kepulauan Riau",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 21,
+                    "JUMLAH_KEJADIAN": 11.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 246,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Kepulauan Riau",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 21,
+                    "JUMLAH_KEJADIAN": 9.0,
+                    "MENINGGAL": 4,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 5,
+                    "MENDERITA_MENGUNGSI": 240,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "KEPULAUAN RIAU",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 55,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 3,
+                    "PERLENGKAPAN_KESELAMATAN": 51,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 22,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 190,
+                    "JUMLAH_DESA": 430,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.128,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.007,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.119,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.051,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.442
+                }
+            ]
+        }
+    },
+    "Dki Jakarta": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "DKI Jakarta",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 31,
+                    "JUMLAH_KEJADIAN": 17.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 24082,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "DKI Jakarta",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 31,
+                    "JUMLAH_KEJADIAN": 28.0,
+                    "MENINGGAL": 3,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 3,
+                    "MENDERITA_MENGUNGSI": 37854,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "DKI JAKARTA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 137,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 2,
+                    "PERLENGKAPAN_KESELAMATAN": 240,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 186,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 201,
+                    "JUMLAH_DESA": 267,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.513,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.007,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.899,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.697,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.753
+                }
+            ]
+        }
+    },
+    "Jawa Barat": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Jawa Barat",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 32,
+                    "JUMLAH_KEJADIAN": 183.0,
+                    "MENINGGAL": 124,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 16,
+                    "MENDERITA_MENGUNGSI": 654282,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Jawa Barat",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 32,
+                    "JUMLAH_KEJADIAN": 442.999,
+                    "MENINGGAL": 58,
+                    "HILANG": 13,
+                    "LUKA_SAKIT": 134,
+                    "MENDERITA_MENGUNGSI": 801900,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "JAWA BARAT",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 1748,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 27,
+                    "PERLENGKAPAN_KESELAMATAN": 1737,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 1262,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 3915,
+                    "JUMLAH_DESA": 5957,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.293,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.005,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.292,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.212,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.657
+                }
+            ]
+        }
+    },
+    "Jawa Tengah": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Jawa Tengah",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 33,
+                    "JUMLAH_KEJADIAN": 194.000001,
+                    "MENINGGAL": 24,
+                    "HILANG": 5,
+                    "LUKA_SAKIT": 38,
+                    "MENDERITA_MENGUNGSI": 740361,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Jawa Tengah",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 33,
+                    "JUMLAH_KEJADIAN": 336.0,
+                    "MENINGGAL": 93,
+                    "HILANG": 16,
+                    "LUKA_SAKIT": 121,
+                    "MENDERITA_MENGUNGSI": 1063976,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "JAWA TENGAH",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 3179,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 83,
+                    "PERLENGKAPAN_KESELAMATAN": 2036,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 1347,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 5592,
+                    "JUMLAH_DESA": 8563,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.371,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.01,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.238,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.157,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.653
+                }
+            ]
+        }
+    },
+    "Daerah Istimewa Yogyakarta": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Daerah Istimewa Yogyakarta",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 34,
+                    "JUMLAH_KEJADIAN": 10.666667,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 43,
+                    "MENDERITA_MENGUNGSI": 1658,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Daerah Istimewa Yogyakarta",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 34,
+                    "JUMLAH_KEJADIAN": 26.999,
+                    "MENINGGAL": 4,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 9,
+                    "MENDERITA_MENGUNGSI": 4481,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ]
+        }
+    },
+    "Jawa Timur": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Jawa Timur",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 35,
+                    "JUMLAH_KEJADIAN": 131.333334,
+                    "MENINGGAL": 11,
+                    "HILANG": 1,
+                    "LUKA_SAKIT": 24,
+                    "MENDERITA_MENGUNGSI": 200197,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Jawa Timur",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 35,
+                    "JUMLAH_KEJADIAN": 338.799,
+                    "MENINGGAL": 50,
+                    "HILANG": 1,
+                    "LUKA_SAKIT": 49,
+                    "MENDERITA_MENGUNGSI": 473456,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "JAWA TIMUR",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 2016,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 61,
+                    "PERLENGKAPAN_KESELAMATAN": 2023,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 1803,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 5623,
+                    "JUMLAH_DESA": 8494,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.237,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.007,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.238,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.212,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.662
+                }
+            ]
+        }
+    },
+    "Banten": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Banten",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 36,
+                    "JUMLAH_KEJADIAN": 37.0,
+                    "MENINGGAL": 4,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 5,
+                    "MENDERITA_MENGUNGSI": 372554,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Banten",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 36,
+                    "JUMLAH_KEJADIAN": 71.0,
+                    "MENINGGAL": 3,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 1,
+                    "MENDERITA_MENGUNGSI": 209911,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "BANTEN",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 112,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 33,
+                    "PERLENGKAPAN_KESELAMATAN": 145,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 143,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 510,
+                    "JUMLAH_DESA": 1552,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.072,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.021,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.093,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.092,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.329
+                }
+            ]
+        }
+    },
+    "Bali": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Bali",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 51,
+                    "JUMLAH_KEJADIAN": 5.0,
+                    "MENINGGAL": 3,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 4890,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Bali",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 51,
+                    "JUMLAH_KEJADIAN": 33.2,
+                    "MENINGGAL": 45,
+                    "HILANG": 4,
+                    "LUKA_SAKIT": 17,
+                    "MENDERITA_MENGUNGSI": 34089,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "BALI",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 695,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 42,
+                    "PERLENGKAPAN_KESELAMATAN": 287,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 410,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 473,
+                    "JUMLAH_DESA": 718,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.968,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.058,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.4,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.571,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.659
+                }
+            ]
+        }
+    },
+    "Nusa Tenggara Barat": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Nusa Tenggara Barat",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 52,
+                    "JUMLAH_KEJADIAN": 58.0,
+                    "MENINGGAL": 6,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 6,
+                    "MENDERITA_MENGUNGSI": 84591,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Nusa Tenggara Barat",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 52,
+                    "JUMLAH_KEJADIAN": 117.0,
+                    "MENINGGAL": 16,
+                    "HILANG": 5,
+                    "LUKA_SAKIT": 22,
+                    "MENDERITA_MENGUNGSI": 192082,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "NUSA TENGGARA BARAT",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 213,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 24,
+                    "PERLENGKAPAN_KESELAMATAN": 188,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 345,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 730,
+                    "JUMLAH_DESA": 1180,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.181,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.02,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.159,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.292,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.619
+                }
+            ]
+        }
+    },
+    "Nusa Tenggara Timur": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Nusa Tenggara Timur",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 53,
+                    "JUMLAH_KEJADIAN": 25.0,
+                    "MENINGGAL": 11,
+                    "HILANG": 1,
+                    "LUKA_SAKIT": 22,
+                    "MENDERITA_MENGUNGSI": 25255,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Nusa Tenggara Timur",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 53,
+                    "JUMLAH_KEJADIAN": 61.0,
+                    "MENINGGAL": 18,
+                    "HILANG": 3,
+                    "LUKA_SAKIT": 28,
+                    "MENDERITA_MENGUNGSI": 78657,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "NUSA TENGGARA TIMUR",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 321,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 59,
+                    "PERLENGKAPAN_KESELAMATAN": 86,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 511,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 490,
+                    "JUMLAH_DESA": 3538,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.091,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.017,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.024,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.144,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.138
+                }
+            ]
+        }
+    },
+    "Kalimantan Barat": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Kalimantan Barat",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 61,
+                    "JUMLAH_KEJADIAN": 24.0,
+                    "MENINGGAL": 1,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 85275,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Kalimantan Barat",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 61,
+                    "JUMLAH_KEJADIAN": 43.0,
+                    "MENINGGAL": 5,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 1,
+                    "MENDERITA_MENGUNGSI": 473503,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "KALIMANTAN BARAT",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 123,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 322,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 201,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 778,
+                    "JUMLAH_DESA": 2157,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.057,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.149,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.093,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.361
+                }
+            ]
+        }
+    },
+    "Kalimantan Tengah": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Kalimantan Tengah",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 62,
+                    "JUMLAH_KEJADIAN": 26.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 3746,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Kalimantan Tengah",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 62,
+                    "JUMLAH_KEJADIAN": 114.99799999999986,
+                    "MENINGGAL": 5,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 1,
+                    "MENDERITA_MENGUNGSI": 224563,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "KALIMANTAN TENGAH",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 114,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 335,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 134,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 467,
+                    "JUMLAH_DESA": 1577,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.072,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.212,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.085,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.296
+                }
+            ]
+        }
+    },
+    "Kalimantan Selatan": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Kalimantan Selatan",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 63,
+                    "JUMLAH_KEJADIAN": 28.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 32165,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Kalimantan Selatan",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 63,
+                    "JUMLAH_KEJADIAN": 65.0,
+                    "MENINGGAL": 4,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 1,
+                    "MENDERITA_MENGUNGSI": 345835,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "KALIMANTAN SELATAN",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 206,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 564,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 263,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 936,
+                    "JUMLAH_DESA": 2015,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.102,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.28,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.131,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.465
+                }
+            ]
+        }
+    },
+    "Kalimantan Timur": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Kalimantan Timur",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 64,
+                    "JUMLAH_KEJADIAN": 13.0,
+                    "MENINGGAL": 1,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 24395,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Kalimantan Timur",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 64,
+                    "JUMLAH_KEJADIAN": 50.0,
+                    "MENINGGAL": 13,
+                    "HILANG": 2,
+                    "LUKA_SAKIT": 7,
+                    "MENDERITA_MENGUNGSI": 182469,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "KALIMANTAN TIMUR",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 96,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 1,
+                    "PERLENGKAPAN_KESELAMATAN": 265,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 168,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 520,
+                    "JUMLAH_DESA": 1055,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.091,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.001,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.251,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.159,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.493
+                }
+            ]
+        }
+    },
+    "Kalimantan Utara": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Kalimantan Utara",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 65,
+                    "JUMLAH_KEJADIAN": 18.0,
+                    "MENINGGAL": 1,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 67056,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Kalimantan Utara",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 65,
+                    "JUMLAH_KEJADIAN": 25.0,
+                    "MENINGGAL": 1,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 2,
+                    "MENDERITA_MENGUNGSI": 48748,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "KALIMANTAN UTARA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 71,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 85,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 44,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 151,
+                    "JUMLAH_DESA": 484,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.147,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.176,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.091,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.312
+                }
+            ]
+        }
+    },
+    "Sulawesi Utara": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Sulawesi Utara",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 71,
+                    "JUMLAH_KEJADIAN": 15.454545,
+                    "MENINGGAL": 20,
+                    "HILANG": 2,
+                    "LUKA_SAKIT": 4,
+                    "MENDERITA_MENGUNGSI": 8695,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Sulawesi Utara",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 71,
+                    "JUMLAH_KEJADIAN": 34.0,
+                    "MENINGGAL": 4,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 53906,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "SULAWESI UTARA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 337,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 50,
+                    "PERLENGKAPAN_KESELAMATAN": 100,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 383,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 822,
+                    "JUMLAH_DESA": 1838,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.183,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.027,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.054,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.208,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.447
+                }
+            ]
+        }
+    },
+    "Sulawesi Tengah": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Sulawesi Tengah",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 72,
+                    "JUMLAH_KEJADIAN": 44.0,
+                    "MENINGGAL": 6,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 130,
+                    "MENDERITA_MENGUNGSI": 25173,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Sulawesi Tengah",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 72,
+                    "JUMLAH_KEJADIAN": 120.5,
+                    "MENINGGAL": 14,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 58,
+                    "MENDERITA_MENGUNGSI": 83182,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "SULAWESI TENGAH",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 168,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 37,
+                    "PERLENGKAPAN_KESELAMATAN": 136,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 648,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 926,
+                    "JUMLAH_DESA": 2022,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.083,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.018,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.067,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.32,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.458
+                }
+            ]
+        }
+    },
+    "Sulawesi Selatan": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Sulawesi Selatan",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 73,
+                    "JUMLAH_KEJADIAN": 37.0,
+                    "MENINGGAL": 6,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 10,
+                    "MENDERITA_MENGUNGSI": 30360,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Sulawesi Selatan",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 73,
+                    "JUMLAH_KEJADIAN": 125.0,
+                    "MENINGGAL": 6,
+                    "HILANG": 1,
+                    "LUKA_SAKIT": 10,
+                    "MENDERITA_MENGUNGSI": 267236,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "SULAWESI SELATAN",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 288,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 8,
+                    "PERLENGKAPAN_KESELAMATAN": 307,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 353,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 1373,
+                    "JUMLAH_DESA": 3060,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.094,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.003,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.1,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.115,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.449
+                }
+            ]
+        }
+    },
+    "Sulawesi Tenggara": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Sulawesi Tenggara",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 74,
+                    "JUMLAH_KEJADIAN": 9.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 34430,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Sulawesi Tenggara",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 74,
+                    "JUMLAH_KEJADIAN": 18.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 1,
+                    "MENDERITA_MENGUNGSI": 8300,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "SULAWESI TENGGARA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 23,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 1,
+                    "PERLENGKAPAN_KESELAMATAN": 33,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 103,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 721,
+                    "JUMLAH_DESA": 2292,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.01,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.014,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.045,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.315
+                }
+            ]
+        }
+    },
+    "Gorontalo": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Gorontalo",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 75,
+                    "JUMLAH_KEJADIAN": 7.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 7894,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Gorontalo",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 75,
+                    "JUMLAH_KEJADIAN": 39.0,
+                    "MENINGGAL": 2,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 1,
+                    "MENDERITA_MENGUNGSI": 34831,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "GORONTALO",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 60,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 15,
+                    "PERLENGKAPAN_KESELAMATAN": 58,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 119,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 300,
+                    "JUMLAH_DESA": 732,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.082,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.02,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.079,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.163,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.41
+                }
+            ]
+        }
+    },
+    "Sulawesi Barat": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Sulawesi Barat",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 76,
+                    "JUMLAH_KEJADIAN": 6.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 2,
+                    "MENDERITA_MENGUNGSI": 931,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Sulawesi Barat",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 76,
+                    "JUMLAH_KEJADIAN": 17.0,
+                    "MENINGGAL": 5,
+                    "HILANG": 2,
+                    "LUKA_SAKIT": 9,
+                    "MENDERITA_MENGUNGSI": 22031,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "SULAWESI BARAT",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 28,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 1,
+                    "PERLENGKAPAN_KESELAMATAN": 16,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 44,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 249,
+                    "JUMLAH_DESA": 650,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.043,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.002,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.025,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.068,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.383
+                }
+            ]
+        }
+    },
+    "Maluku": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Maluku",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 81,
+                    "JUMLAH_KEJADIAN": 10.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 26879,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Maluku",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 81,
+                    "JUMLAH_KEJADIAN": 29.0,
+                    "MENINGGAL": 10,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 12,
+                    "MENDERITA_MENGUNGSI": 14550,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "MALUKU",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 81,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 39,
+                    "PERLENGKAPAN_KESELAMATAN": 32,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 348,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 287,
+                    "JUMLAH_DESA": 1262,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.064,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.031,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.025,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.276,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.227
+                }
+            ]
+        }
+    },
+    "Maluku Utara": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Maluku Utara",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 82,
+                    "JUMLAH_KEJADIAN": 15.545454,
+                    "MENINGGAL": 7,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 14,
+                    "MENDERITA_MENGUNGSI": 14607,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Maluku Utara",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 82,
+                    "JUMLAH_KEJADIAN": 55.0,
+                    "MENINGGAL": 7,
+                    "HILANG": 3,
+                    "LUKA_SAKIT": 2,
+                    "MENDERITA_MENGUNGSI": 49828,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "MALUKU UTARA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 120,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 31,
+                    "PERLENGKAPAN_KESELAMATAN": 42,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 256,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 383,
+                    "JUMLAH_DESA": 1209,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.099,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.026,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.035,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.212,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.317
+                }
+            ]
+        }
+    },
+    "Papua": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Papua",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 91,
+                    "JUMLAH_KEJADIAN": 2.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 1701,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Papua",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 91,
+                    "JUMLAH_KEJADIAN": 15.0,
+                    "MENINGGAL": 2,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 3,
+                    "MENDERITA_MENGUNGSI": 6169,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "PAPUA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 29,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 13,
+                    "PERLENGKAPAN_KESELAMATAN": 15,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 90,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 135,
+                    "JUMLAH_DESA": 1029,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.028,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.013,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.015,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.087,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.131
+                }
+            ]
+        }
+    },
+    "Papua Barat": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Papua Barat",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 92,
+                    "JUMLAH_KEJADIAN": 3.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 185,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Papua Barat",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 92,
+                    "JUMLAH_KEJADIAN": 7.0,
+                    "MENINGGAL": 16,
+                    "HILANG": 4,
+                    "LUKA_SAKIT": 4,
+                    "MENDERITA_MENGUNGSI": 1085,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "PAPUA BARAT",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 27,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 15,
+                    "PERLENGKAPAN_KESELAMATAN": 20,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 60,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 81,
+                    "JUMLAH_DESA": 970,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.028,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.015,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.021,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.062,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.084
+                }
+            ]
+        }
+    },
+    "Papua Selatan": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Papua Selatan",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 93,
+                    "JUMLAH_KEJADIAN": 1.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 1215,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "PAPUA SELATAN",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 8,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 50,
+                    "JUMLAH_DESA": 690,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.0,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.012,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.0,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.072
+                }
+            ]
+        }
+    },
+    "Papua Tengah": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Papua Tengah",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 94,
+                    "JUMLAH_KEJADIAN": 4.0,
+                    "MENINGGAL": 6,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 11,
+                    "MENDERITA_MENGUNGSI": 1925,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "PAPUA TENGAH",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 7,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 1,
+                    "PERLENGKAPAN_KESELAMATAN": 5,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 29,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 17,
+                    "JUMLAH_DESA": 1208,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.006,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.001,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.004,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.024,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.014
+                }
+            ]
+        }
+    },
+    "Papua Pegunungan": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Papua Pegunungan",
+                    "TAHUN": 2026,
+                    "KODE_PROVINSI": 95,
+                    "JUMLAH_KEJADIAN": 2.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 2,
+                    "LUKA_SAKIT": 2,
+                    "MENDERITA_MENGUNGSI": 5570,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                },
+                {
+                    "PROVINSI": "Papua Pegunungan",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 95,
+                    "JUMLAH_KEJADIAN": 10.0,
+                    "MENINGGAL": 13,
+                    "HILANG": 15,
+                    "LUKA_SAKIT": 222,
+                    "MENDERITA_MENGUNGSI": 179151,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "PAPUA PEGUNUNGAN",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 4,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 0,
+                    "PERLENGKAPAN_KESELAMATAN": 0,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 1,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 8,
+                    "JUMLAH_DESA": 2634,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.002,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.0,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.0,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.0,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.003
+                }
+            ]
+        }
+    },
+    "Papua Barat Daya": {
+        "KEAMANAN DARI BENCANA": {
+            "RISIKO BENCANA": [
+                {
+                    "PROVINSI": "Papua Barat Daya",
+                    "TAHUN": 2025,
+                    "KODE_PROVINSI": 96,
+                    "JUMLAH_KEJADIAN": 5.0,
+                    "MENINGGAL": 0,
+                    "HILANG": 0,
+                    "LUKA_SAKIT": 0,
+                    "MENDERITA_MENGUNGSI": 10180,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "RISIKO BENCANA"
+                }
+            ],
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "PAPUA BARAT DAYA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 16,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 10,
+                    "PERLENGKAPAN_KESELAMATAN": 8,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 40,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 69,
+                    "JUMLAH_DESA": 1056,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.015,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.009,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.008,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.038,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.065
+                }
+            ]
+        }
+    },
+    "Di Yogyakarta": {
+        "KEAMANAN DARI BENCANA": {
+            "KESIAPSIAGAAN BENCANA": [
+                {
+                    "PROVINSI": "DI YOGYAKARTA",
+                    "SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 343,
+                    "SISTEM_PERINGATAN_DINI_TSUNAMI": 20,
+                    "PERLENGKAPAN_KESELAMATAN": 347,
+                    "RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 118,
+                    "PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 340,
+                    "JUMLAH_DESA": 438,
+                    "DIMENSI": "KEAMANAN DARI BENCANA",
+                    "VARIABEL": "KESIAPSIAGAAN BENCANA",
+                    "RASIO_SISTEM_PERINGATAN_DINI_BENCANA_ALAM": 0.783,
+                    "RASIO_SISTEM_PERINGATAN_DINI_TSUNAMI": 0.046,
+                    "RASIO_PERLENGKAPAN_KESELAMATAN": 0.792,
+                    "RASIO_RAMBU_RAMBU_DAN_JALUR_EVAKUASI": 0.269,
+                    "RASIO_PEMBUATAN_PERAWATAN_ATAU_NORMALISASI__SUNGAI_KANAL_TANGGUL_DLL": 0.776
+                }
+            ]
+        }
+    }
+}
