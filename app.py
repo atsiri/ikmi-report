@@ -155,8 +155,8 @@ if check_password():
         geojson_data = json.loads(merged_gdf.to_json())
         
         # Prepare hover data (Show actual values for the selected map indicators)
-        hover_data = {ind: ':.4f' for ind in selected_inds}
-        hover_data['IKMI_Ratio'] = ':.4f'
+        hover_data = {ind: ':.2f' for ind in selected_inds}
+        hover_data['IKMI_Ratio'] = ':.2f'
         
         fig = px.choropleth_mapbox(
             merged_gdf,
@@ -184,9 +184,15 @@ if check_password():
         # Prepare columns: Display all underlying metrics + the map score
         display_cols = ['PROVINSI'] + sorted(all_table_cols) + ['IKMI_Ratio']
         table_data = prov_agg[display_cols].sort_values(by='IKMI_Ratio', ascending=False)
+        table_data['JUMLAH_DESA'] = table_data['JUMLAH_DESA'].fillna(0).astype(int)
         
+        # Get all numeric columns to format (everything except the PROVINSI text column)
+        numeric_display_cols = [col for col in display_cols if col != 'PROVINSI']
+    
         st.dataframe(
-            table_data.style.background_gradient(cmap='RdYlGn_r', subset=['IKMI_Ratio']),
+            table_data.style
+            .format("{:.2f}", subset=numeric_display_cols)
+            .background_gradient(cmap='RdYlGn_r', subset=['IKMI_Ratio']),
             use_container_width=True, 
             hide_index=True
         )
