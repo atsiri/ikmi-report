@@ -9,6 +9,7 @@ import geopandas as gpd
 from streamlit_agraph import agraph, Node, Edge, Config
 import json
 import numpy as np
+import plotly.express as px
 
 # --- 1. PASSWORD PROTECTION ---
 def check_password():
