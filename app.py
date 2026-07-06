@@ -8,6 +8,7 @@ from shapely import wkt
 import geopandas as gpd
 from streamlit_agraph import agraph, Node, Edge, Config
 import json
+import numpy as np
 
 # --- 1. PASSWORD PROTECTION ---
 def check_password():
