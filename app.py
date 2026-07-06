@@ -7,6 +7,7 @@ import streamlit.components.v1 as components
 from shapely import wkt
 import geopandas as gpd
 from streamlit_agraph import agraph, Node, Edge, Config
+import json
 
 # --- 1. PASSWORD PROTECTION ---
 def check_password():
