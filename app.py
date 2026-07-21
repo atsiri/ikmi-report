@@ -4,6 +4,8 @@ import geopandas as gpd
 import json
 import numpy as np
 import plotly.express as px
+import matplotlib.pyplot as plt
+import matplotlib.colors as mcolors
 
 # --- 1. PASSWORD PROTECTION ---
 def check_password():
@@ -56,7 +58,7 @@ if check_password():
                 indeks_record['KESEJAHTERAAN_SOSIAL_INDEKS'] = dim_scores.get("KESEJAHTERAAN SOSIAL", 0)
                 indeks_record['KEAMANAN_DARI_BENCANA_INDEKS'] = dim_scores.get("KEAMANAN DARI BENCANA", 0)
                 indeks_record['KEAMANAN_DARI_KEKERASAN_FISIK_INDEKS'] = dim_scores.get("KEAMANAN DARI KEKERASAN FISIK", 0)
-                indeks_record['KEBHINNEKAAN_INDEKS'] = dim_scores.get("KEBHINNEKAAN", 0) # Fallback if missing
+                indeks_record['KEBHINNEKAAN_INDEKS'] = dim_scores.get("PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN", 0) 
                 
             indeks_rows.append(indeks_record)
             
@@ -138,7 +140,7 @@ if check_password():
     selected_indeks = st.sidebar.selectbox("1. Filter by INDEKS", indeks_data)
 
     # 2. Filter INDIKATOR (Hanya yang diawali RASIO atau RERATA)
-    valid_map_indicators = sorted([col for col in all_indicators if str(col).startswith("RASIO") or str(col).startswith("RERATA")])
+    valid_map_indicators = sorted([col for col in all_indicators if str(col).startswith("RASIO") or str(col).startswith("RERATA") or str(col).startswith("INDEKS")])
     selected_indikator = st.sidebar.selectbox("2. Filter by INDIKATOR (Pilih 'None' untuk Peta berbasis Indeks)", ["None"] + valid_map_indicators)
 
     # --- 3. Logic Setup (Map & Table) ---
@@ -146,10 +148,16 @@ if check_password():
     dimensi_mapping = {
         'KESEJAHTERAAN_SOSIAL_INDEKS': 'KESEJAHTERAAN SOSIAL',
         'KEAMANAN_DARI_BENCANA_INDEKS': 'KEAMANAN DARI BENCANA',
-        'KEBHINNEKAAN_INDEKS': 'KEBHINNEKAAN',
+        'KEBHINNEKAAN_INDEKS': 'PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN',
         'KEAMANAN_DARI_KEKERASAN_FISIK_INDEKS': 'KEAMANAN DARI KEKERASAN FISIK',
         'INDEKS_KEAMANAN_MANUSIA_INDONESIA': 'ALL'
     }
+    
+    # Reverse mapping untuk mencari Indeks berdasarkan nama Dimensi
+    dimensi_mapping_reverse = {v: k for k, v in dimensi_mapping.items()}
+    
+    # Baseline index untuk selalu ditampilkan
+    active_indeks_cols = ['INDEKS_KEAMANAN_MANUSIA_INDONESIA']
 
     if selected_indikator != "None":
         # Jika Indikator dipilih: Map menampilkan indikator tsb, Tabel menampilkan 1 VARIABEL penuh
@@ -159,6 +167,12 @@ if check_password():
         target_var = ind_to_var.get(selected_indikator)
         if target_var:
             table_raw_cols = [col for col, var in ind_to_var.items() if var == target_var]
+            
+            # Tambahkan Indeks Dimensi yang menaungi Variabel ini agar tabel relevan
+            rel_dim = var_to_dim.get(target_var)
+            rel_indeks = dimensi_mapping_reverse.get(rel_dim)
+            if rel_indeks and rel_indeks not in active_indeks_cols:
+                active_indeks_cols.append(rel_indeks)
         else:
             table_raw_cols = [selected_indikator]
             
@@ -170,11 +184,17 @@ if check_password():
         target_dim = dimensi_mapping.get(selected_indeks)
         if target_dim == 'ALL':
             table_raw_cols = all_indicators
+            active_indeks_cols = indeks_data # Jika ALL, tampilkan seluruh indeks
         else:
             target_vars = [var for var, dim in var_to_dim.items() if dim == target_dim]
             table_raw_cols = [col for col, var in ind_to_var.items() if var in target_vars]
+            
+            # Tambahkan indeks dimensi yang dipilih agar muncul di tabel
+            if selected_indeks not in active_indeks_cols:
+                active_indeks_cols.append(selected_indeks)
 
     # Menggabungkan data provinsi dengan geometri map
+    prov_agg = prov_agg.loc[:, ~(prov_agg.columns.str.contains('norm'))]
     merged_gdf = gdf.merge(prov_agg, left_on='PROVINSI_GEO', right_on='PROVINSI', how='left')
 
     if map_metric in merged_gdf.columns:
@@ -192,6 +212,29 @@ if check_password():
     # --- 4. Render Choropleth Map ---
     st.title("Peta Indeks Keamanan Manusia Indonesia")
     geojson_data = json.loads(merged_gdf.to_json())
+    # --- NEW AUTOMATIC COLOR SCALE LOGIC ---
+    # Daftar indikator di mana nilai tinggi = buruk (Skala dibalik menjadi Hijau -> Merah)
+    negative_indicators = [
+        'RASIO_PENGANGGURAN_PEKERJA',
+        'RASIO_PENCURIAN_DENGAN_KEKERASAN',
+        'RASIO_PENGANIAYAAN',
+        'RASIO_PERKOSAAN',
+        'RASIO_PEMBUNUHAN',
+        'RASIO_PERDAGANGAN_ORANG',
+        'RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA',
+        'RASIO_KONFLIK_WARGA_ANTAR_DESA',
+        'RASIO_KONFLIK_ANTAR_SUKU',
+        'RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN',
+        'RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH'
+    ]
+
+    # Default Skala: Merah (Buruk/Rendah) ke Hijau (Baik/Tinggi)
+    map_color_scale = ["maroon", "red", "orange", "yellow", "green", "darkgreen"]
+
+    # Jika indikator yang dipilih termasuk dalam list negative_indicators, balik warnanya
+    if selected_indikator in negative_indicators:
+        map_color_scale = map_color_scale[::-1]  # Menjadi Hijau (Rendah) -> Merah (Tinggi)
+    # ---------------------------------------
 
     fig = px.choropleth_mapbox(
         merged_gdf,
@@ -199,7 +242,7 @@ if check_password():
         locations='PROVINSI_GEO',
         featureidkey="properties.PROVINSI_GEO",
         color='IKMI_Score', 
-        color_continuous_scale=["red", "orange", "yellow", "green"],
+        color_continuous_scale=map_color_scale, 
         range_color=map_range,
         mapbox_style="carto-positron",
         zoom=3.5,
@@ -211,6 +254,7 @@ if check_password():
 
     fig.update_layout(margin={"r":0,"t":40,"l":0,"b":0})
     st.plotly_chart(fig, use_container_width=True)
+    
 
     # --- 5. Display Data Table ---
     st.subheader("Detail Data per Provinsi")
@@ -218,17 +262,22 @@ if check_password():
     # Ambil raw kolom untuk tabel beserta versi normalisasinya
     table_norm_cols = [c + "_norm" for c in table_raw_cols]
     
-    # Kolom yang ditampilkan: Provinsi + Seluruh Indeks (Utama) + Raw Kolom Terpilih + Norm Kolom Terpilih
-    display_cols = ['PROVINSI'] + indeks_data + sorted(table_raw_cols) + sorted(table_norm_cols)
+    # Kolom yang ditampilkan: Provinsi + Indeks Terkait + Raw Kolom Terpilih + Norm Kolom Terpilih
+    display_cols = ['PROVINSI'] + active_indeks_cols + sorted(table_raw_cols) + sorted(table_norm_cols)
     display_cols = [c for c in display_cols if c in prov_agg.columns]
 
     table_data = prov_agg[display_cols].sort_values(by='INDEKS_KEAMANAN_MANUSIA_INDONESIA', ascending=False)
     numeric_display_cols = [col for col in display_cols if col != 'PROVINSI']
 
+    # 1. Define color list
+    color_list = ["maroon", "red", "orange", "yellow", "green", "darkgreen"]
+    custom_cmap = mcolors.LinearSegmentedColormap.from_list("my_cmap", color_list)
+
     st.dataframe(
         table_data.style
         .format("{:.2f}", subset=numeric_display_cols)
-        .background_gradient(cmap='RdYlGn', subset=['INDEKS_KEAMANAN_MANUSIA_INDONESIA']),
+        .background_gradient(cmap='RdYlGn', subset=['INDEKS_KEAMANAN_MANUSIA_INDONESIA'], vmin=0, vmax=100),
+        #.background_gradient(cmap=custom_cmap, subset=['INDEKS_KEAMANAN_MANUSIA_INDONESIA']), #'RdYlGn'
         use_container_width=True, 
         hide_index=True
     )

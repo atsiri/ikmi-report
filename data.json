@@ -102,13 +102,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "ACEH",
-                    "ANTAR_KELOMPOK_WARGA": 16,
-                    "WARGA_ANTAR_DESA": 18,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 16,
+                    "KONFLIK_WARGA_ANTAR_DESA": 18,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 6513,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.246,
-                    "RASIO_WARGA_ANTAR_DESA": 0.276,
-                    "RASIO_ANTAR_SUKU": 0.015,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.246,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.276,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.015,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -118,21 +118,51 @@
                 {
                     "PROVINSI": "ACEH",
                     "JUMLAH DESA": 6513,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 78.1,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "ACEH",
+                    "INDEKS_KEBEBASAN": 86.96,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "ACEH",
+                    "INDEKS_KESETARAAN": 80.87,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "ACEH",
+                    "INDEKS_KAPASITAS_LEMBAGA": 83.02,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 80.53,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 55.79,
-            "KESEJAHTERAAN SOSIAL": 80.3,
-            "KEAMANAN DARI KEKERASAN FISIK": 98.21
+            "KESEJAHTERAAN SOSIAL": 86.45,
+            "KEAMANAN DARI KEKERASAN FISIK": 98.21,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 81.67
         }
     },
     "Sumatera Utara": {
@@ -238,13 +268,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "SUMATERA UTARA",
-                    "ANTAR_KELOMPOK_WARGA": 44,
-                    "WARGA_ANTAR_DESA": 42,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 44,
+                    "KONFLIK_WARGA_ANTAR_DESA": 42,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 6113,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.72,
-                    "RASIO_WARGA_ANTAR_DESA": 0.687,
-                    "RASIO_ANTAR_SUKU": 0.016,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.72,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.687,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.016,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -254,21 +284,51 @@
                 {
                     "PROVINSI": "SUMATERA UTARA",
                     "JUMLAH DESA": 6113,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 2,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 2,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.033,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.033,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 2,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 2,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.033,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.033,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 70.56,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "SUMATERA UTARA",
+                    "INDEKS_KEBEBASAN": 86.1,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "SUMATERA UTARA",
+                    "INDEKS_KESETARAAN": 80.97,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "SUMATERA UTARA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 77.56,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 74.23,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 50.45,
-            "KESEJAHTERAAN SOSIAL": 71.66,
-            "KEAMANAN DARI KEKERASAN FISIK": 89.58
+            "KESEJAHTERAAN SOSIAL": 79.76,
+            "KEAMANAN DARI KEKERASAN FISIK": 89.58,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 77.14
         }
     },
     "Sumatera Barat": {
@@ -374,13 +434,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "SUMATERA BARAT",
-                    "ANTAR_KELOMPOK_WARGA": 14,
-                    "WARGA_ANTAR_DESA": 6,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 14,
+                    "KONFLIK_WARGA_ANTAR_DESA": 6,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 1287,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.088,
-                    "RASIO_WARGA_ANTAR_DESA": 0.466,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.088,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.466,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -390,21 +450,51 @@
                 {
                     "PROVINSI": "SUMATERA BARAT",
                     "JUMLAH DESA": 1287,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 76.21,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "SUMATERA BARAT",
+                    "INDEKS_KEBEBASAN": 78.91,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "SUMATERA BARAT",
+                    "INDEKS_KESETARAAN": 82.13,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "SUMATERA BARAT",
+                    "INDEKS_KAPASITAS_LEMBAGA": 78.76,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 76.74,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 74.46,
-            "KESEJAHTERAAN SOSIAL": 78.32,
-            "KEAMANAN DARI KEKERASAN FISIK": 75.84
+            "KESEJAHTERAAN SOSIAL": 84.22,
+            "KEAMANAN DARI KEKERASAN FISIK": 75.84,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 72.43
         }
     },
     "Riau": {
@@ -510,13 +600,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "RIAU",
-                    "ANTAR_KELOMPOK_WARGA": 5,
-                    "WARGA_ANTAR_DESA": 0,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 5,
+                    "KONFLIK_WARGA_ANTAR_DESA": 0,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 1870,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.267,
-                    "RASIO_WARGA_ANTAR_DESA": 0.0,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.267,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.0,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -526,21 +616,51 @@
                 {
                     "PROVINSI": "RIAU",
                     "JUMLAH DESA": 1870,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 74.53,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "RIAU",
+                    "INDEKS_KEBEBASAN": 83.3,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "RIAU",
+                    "INDEKS_KESETARAAN": 76.49,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "RIAU",
+                    "INDEKS_KAPASITAS_LEMBAGA": 77.11,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 74.98,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 63.03,
-            "KESEJAHTERAAN SOSIAL": 68.45,
-            "KEAMANAN DARI KEKERASAN FISIK": 92.13
+            "KESEJAHTERAAN SOSIAL": 74.96,
+            "KEAMANAN DARI KEKERASAN FISIK": 92.13,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 69.82
         }
     },
     "Jambi": {
@@ -646,13 +766,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "JAMBI",
-                    "ANTAR_KELOMPOK_WARGA": 6,
-                    "WARGA_ANTAR_DESA": 19,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 6,
+                    "KONFLIK_WARGA_ANTAR_DESA": 19,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 1586,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.378,
-                    "RASIO_WARGA_ANTAR_DESA": 1.198,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.378,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.198,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -662,21 +782,51 @@
                 {
                     "PROVINSI": "JAMBI",
                     "JUMLAH DESA": 1586,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 1,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.063,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 1,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.063,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 71.0,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "JAMBI",
+                    "INDEKS_KEBEBASAN": 80.99,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "JAMBI",
+                    "INDEKS_KESETARAAN": 76.5,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "JAMBI",
+                    "INDEKS_KAPASITAS_LEMBAGA": 82.78,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 72.38,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 56.0,
-            "KESEJAHTERAAN SOSIAL": 64.11,
-            "KEAMANAN DARI KEKERASAN FISIK": 92.9
+            "KESEJAHTERAAN SOSIAL": 68.95,
+            "KEAMANAN DARI KEKERASAN FISIK": 92.9,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 71.65
         }
     },
     "Sumatera Selatan": {
@@ -782,13 +932,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "SUMATERA SELATAN",
-                    "ANTAR_KELOMPOK_WARGA": 13,
-                    "WARGA_ANTAR_DESA": 7,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 13,
+                    "KONFLIK_WARGA_ANTAR_DESA": 7,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 3285,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.396,
-                    "RASIO_WARGA_ANTAR_DESA": 0.213,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.396,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.213,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -798,21 +948,51 @@
                 {
                     "PROVINSI": "SUMATERA SELATAN",
                     "JUMLAH DESA": 3285,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.03,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.03,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 66.27,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "SUMATERA SELATAN",
+                    "INDEKS_KEBEBASAN": 84.77,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "SUMATERA SELATAN",
+                    "INDEKS_KESETARAAN": 79.7,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "SUMATERA SELATAN",
+                    "INDEKS_KAPASITAS_LEMBAGA": 80.38,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 70.3,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 50.78,
-            "KESEJAHTERAAN SOSIAL": 57.01,
-            "KEAMANAN DARI KEKERASAN FISIK": 91.02
+            "KESEJAHTERAAN SOSIAL": 62.78,
+            "KEAMANAN DARI KEKERASAN FISIK": 91.02,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 76.63
         }
     },
     "Bengkulu": {
@@ -918,13 +1098,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "BENGKULU",
-                    "ANTAR_KELOMPOK_WARGA": 3,
-                    "WARGA_ANTAR_DESA": 4,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 3,
+                    "KONFLIK_WARGA_ANTAR_DESA": 4,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 1513,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.198,
-                    "RASIO_WARGA_ANTAR_DESA": 0.264,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.198,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.264,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -934,21 +1114,51 @@
                 {
                     "PROVINSI": "BENGKULU",
                     "JUMLAH DESA": 1513,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 1,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.066,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 1,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.066,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 73.92,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "BENGKULU",
+                    "INDEKS_KEBEBASAN": 87.16,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "BENGKULU",
+                    "INDEKS_KESETARAAN": 73.37,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "BENGKULU",
+                    "INDEKS_KAPASITAS_LEMBAGA": 80.0,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 74.75,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 57.03,
-            "KESEJAHTERAAN SOSIAL": 70.77,
-            "KEAMANAN DARI KEKERASAN FISIK": 93.97
+            "KESEJAHTERAAN SOSIAL": 75.64,
+            "KEAMANAN DARI KEKERASAN FISIK": 93.97,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 72.37
         }
     },
     "Lampung": {
@@ -1054,13 +1264,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "LAMPUNG",
-                    "ANTAR_KELOMPOK_WARGA": 7,
-                    "WARGA_ANTAR_DESA": 6,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 7,
+                    "KONFLIK_WARGA_ANTAR_DESA": 6,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 2654,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.264,
-                    "RASIO_WARGA_ANTAR_DESA": 0.226,
-                    "RASIO_ANTAR_SUKU": 0.038,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.264,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.226,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.038,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -1070,21 +1280,51 @@
                 {
                     "PROVINSI": "LAMPUNG",
                     "JUMLAH DESA": 2654,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.038,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.038,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 67.23,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "LAMPUNG",
+                    "INDEKS_KEBEBASAN": 83.02,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "LAMPUNG",
+                    "INDEKS_KESETARAAN": 72.73,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "LAMPUNG",
+                    "INDEKS_KAPASITAS_LEMBAGA": 78.82,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 68.36,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 52.94,
-            "KESEJAHTERAAN SOSIAL": 56.72,
-            "KEAMANAN DARI KEKERASAN FISIK": 92.03
+            "KESEJAHTERAAN SOSIAL": 61.41,
+            "KEAMANAN DARI KEKERASAN FISIK": 92.03,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 67.06
         }
     },
     "Kep. Bangka Belitung": {
@@ -1190,13 +1430,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "KEP. BANGKA BELITUNG",
-                    "ANTAR_KELOMPOK_WARGA": 3,
-                    "WARGA_ANTAR_DESA": 6,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 3,
+                    "KONFLIK_WARGA_ANTAR_DESA": 6,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 393,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.763,
-                    "RASIO_WARGA_ANTAR_DESA": 1.527,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.763,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.527,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -1206,21 +1446,51 @@
                 {
                     "PROVINSI": "KEP. BANGKA BELITUNG",
                     "JUMLAH DESA": 393,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 62.52,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "KEP. BANGKA BELITUNG",
+                    "INDEKS_KEBEBASAN": 81.37,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "KEP. BANGKA BELITUNG",
+                    "INDEKS_KESETARAAN": 79.91,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "KEP. BANGKA BELITUNG",
+                    "INDEKS_KAPASITAS_LEMBAGA": 82.93,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 67.12,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 61.4,
-            "KESEJAHTERAAN SOSIAL": 53.38,
-            "KEAMANAN DARI KEKERASAN FISIK": 72.77
+            "KESEJAHTERAAN SOSIAL": 58.83,
+            "KEAMANAN DARI KEKERASAN FISIK": 72.77,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 75.46
         }
     },
     "Kep. Riau": {
@@ -1326,13 +1596,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "KEP. RIAU",
-                    "ANTAR_KELOMPOK_WARGA": 0,
-                    "WARGA_ANTAR_DESA": 0,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 0,
+                    "KONFLIK_WARGA_ANTAR_DESA": 0,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 430,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.0,
-                    "RASIO_WARGA_ANTAR_DESA": 0.0,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.0,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.0,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -1342,21 +1612,51 @@
                 {
                     "PROVINSI": "KEP. RIAU",
                     "JUMLAH DESA": 430,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 65.22,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "KEP. RIAU",
+                    "INDEKS_KEBEBASAN": 86.79,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "KEP. RIAU",
+                    "INDEKS_KESETARAAN": 80.76,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "KEP. RIAU",
+                    "INDEKS_KAPASITAS_LEMBAGA": 77.22,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 70.84,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 59.94,
-            "KESEJAHTERAAN SOSIAL": 73.02,
-            "KEAMANAN DARI KEKERASAN FISIK": 62.72
+            "KESEJAHTERAAN SOSIAL": 83.36,
+            "KEAMANAN DARI KEKERASAN FISIK": 62.72,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 77.34
         }
     },
     "Dki Jakarta": {
@@ -1462,13 +1762,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "DKI JAKARTA",
-                    "ANTAR_KELOMPOK_WARGA": 20,
-                    "WARGA_ANTAR_DESA": 16,
-                    "ANTAR_SUKU": 2,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 20,
+                    "KONFLIK_WARGA_ANTAR_DESA": 16,
+                    "KONFLIK_ANTAR_SUKU": 2,
                     "JUMLAH DESA": 267,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 7.491,
-                    "RASIO_WARGA_ANTAR_DESA": 5.993,
-                    "RASIO_ANTAR_SUKU": 0.749,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 7.491,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 5.993,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.749,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -1478,21 +1778,51 @@
                 {
                     "PROVINSI": "DKI JAKARTA",
                     "JUMLAH DESA": 267,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 1,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.375,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.375,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 1,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.375,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.375,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 69.78,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "DKI JAKARTA",
+                    "INDEKS_KEBEBASAN": 80.64,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "DKI JAKARTA",
+                    "INDEKS_KESETARAAN": 88.62,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "DKI JAKARTA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 78.41,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 75.41,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 85.15,
-            "KESEJAHTERAAN SOSIAL": 82.4,
-            "KEAMANAN DARI KEKERASAN FISIK": 41.81
+            "KESEJAHTERAAN SOSIAL": 94.51,
+            "KEAMANAN DARI KEKERASAN FISIK": 41.81,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 80.17
         }
     },
     "Jawa Barat": {
@@ -1598,13 +1928,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "JAWA BARAT",
-                    "ANTAR_KELOMPOK_WARGA": 67,
-                    "WARGA_ANTAR_DESA": 36,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 67,
+                    "KONFLIK_WARGA_ANTAR_DESA": 36,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 5957,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.125,
-                    "RASIO_WARGA_ANTAR_DESA": 0.604,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.125,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.604,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -1614,21 +1944,51 @@
                 {
                     "PROVINSI": "JAWA BARAT",
                     "JUMLAH DESA": 5957,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 2,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 4,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.034,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.067,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 2,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 4,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.034,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.067,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 60.26,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "JAWA BARAT",
+                    "INDEKS_KEBEBASAN": 86.02,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "JAWA BARAT",
+                    "INDEKS_KESETARAAN": 82.39,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "JAWA BARAT",
+                    "INDEKS_KAPASITAS_LEMBAGA": 73.95,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 65.67,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 38.18,
-            "KESEJAHTERAAN SOSIAL": 61.1,
-            "KEAMANAN DARI KEKERASAN FISIK": 81.51
+            "KESEJAHTERAAN SOSIAL": 67.07,
+            "KEAMANAN DARI KEKERASAN FISIK": 81.51,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 75.93
         }
     },
     "Jawa Tengah": {
@@ -1734,13 +2094,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "JAWA TENGAH",
-                    "ANTAR_KELOMPOK_WARGA": 88,
-                    "WARGA_ANTAR_DESA": 60,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 88,
+                    "KONFLIK_WARGA_ANTAR_DESA": 60,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 8563,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.028,
-                    "RASIO_WARGA_ANTAR_DESA": 0.701,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.028,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.701,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -1750,21 +2110,51 @@
                 {
                     "PROVINSI": "JAWA TENGAH",
                     "JUMLAH DESA": 8563,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 3,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.035,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 3,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.035,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 60.33,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "JAWA TENGAH",
+                    "INDEKS_KEBEBASAN": 88.85,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "JAWA TENGAH",
+                    "INDEKS_KESETARAAN": 86.42,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "JAWA TENGAH",
+                    "INDEKS_KAPASITAS_LEMBAGA": 84.99,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 68.56,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 33.67,
-            "KESEJAHTERAAN SOSIAL": 55.86,
-            "KEAMANAN DARI KEKERASAN FISIK": 91.46
+            "KESEJAHTERAAN SOSIAL": 58.83,
+            "KEAMANAN DARI KEKERASAN FISIK": 91.46,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 90.26
         }
     },
     "Di Yogyakarta": {
@@ -1870,13 +2260,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "DI YOGYAKARTA",
-                    "ANTAR_KELOMPOK_WARGA": 5,
-                    "WARGA_ANTAR_DESA": 3,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 5,
+                    "KONFLIK_WARGA_ANTAR_DESA": 3,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 438,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.142,
-                    "RASIO_WARGA_ANTAR_DESA": 0.685,
-                    "RASIO_ANTAR_SUKU": 0.228,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.142,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.685,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.228,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -1886,21 +2276,51 @@
                 {
                     "PROVINSI": "DI YOGYAKARTA",
                     "JUMLAH DESA": 438,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.228,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.228,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 80.47,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "DI YOGYAKARTA",
+                    "INDEKS_KEBEBASAN": 91.57,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "DI YOGYAKARTA",
+                    "INDEKS_KESETARAAN": 89.38,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "DI YOGYAKARTA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 88.52,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 86.08,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 83.99,
-            "KESEJAHTERAAN SOSIAL": 95.23,
-            "KEAMANAN DARI KEKERASAN FISIK": 62.18
+            "KESEJAHTERAAN SOSIAL": 100.0,
+            "KEAMANAN DARI KEKERASAN FISIK": 62.18,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 98.17
         }
     },
     "Jawa Timur": {
@@ -2006,13 +2426,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "JAWA TIMUR",
-                    "ANTAR_KELOMPOK_WARGA": 64,
-                    "WARGA_ANTAR_DESA": 31,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 64,
+                    "KONFLIK_WARGA_ANTAR_DESA": 31,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 8494,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.753,
-                    "RASIO_WARGA_ANTAR_DESA": 0.365,
-                    "RASIO_ANTAR_SUKU": 0.012,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.753,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.365,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.012,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -2022,21 +2442,51 @@
                 {
                     "PROVINSI": "JAWA TIMUR",
                     "JUMLAH DESA": 8494,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 2,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.024,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 2,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.024,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 68.54,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "JAWA TIMUR",
+                    "INDEKS_KEBEBASAN": 86.99,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "JAWA TIMUR",
+                    "INDEKS_KESETARAAN": 85.09,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "JAWA TIMUR",
+                    "INDEKS_KAPASITAS_LEMBAGA": 79.9,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 73.06,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 53.84,
-            "KESEJAHTERAAN SOSIAL": 61.7,
-            "KEAMANAN DARI KEKERASAN FISIK": 90.09
+            "KESEJAHTERAAN SOSIAL": 64.67,
+            "KEAMANAN DARI KEKERASAN FISIK": 90.09,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 83.65
         }
     },
     "Banten": {
@@ -2142,13 +2592,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "BANTEN",
-                    "ANTAR_KELOMPOK_WARGA": 18,
-                    "WARGA_ANTAR_DESA": 9,
-                    "ANTAR_SUKU": 4,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 18,
+                    "KONFLIK_WARGA_ANTAR_DESA": 9,
+                    "KONFLIK_ANTAR_SUKU": 4,
                     "JUMLAH DESA": 1552,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.16,
-                    "RASIO_WARGA_ANTAR_DESA": 0.58,
-                    "RASIO_ANTAR_SUKU": 0.258,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.16,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.58,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.258,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -2158,21 +2608,51 @@
                 {
                     "PROVINSI": "BANTEN",
                     "JUMLAH DESA": 1552,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 65.87,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "BANTEN",
+                    "INDEKS_KEBEBASAN": 84.02,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "BANTEN",
+                    "INDEKS_KESETARAAN": 75.72,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "BANTEN",
+                    "INDEKS_KAPASITAS_LEMBAGA": 74.93,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 68.21,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 52.49,
-            "KESEJAHTERAAN SOSIAL": 64.87,
-            "KEAMANAN DARI KEKERASAN FISIK": 80.26
+            "KESEJAHTERAAN SOSIAL": 71.87,
+            "KEAMANAN DARI KEKERASAN FISIK": 80.26,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 68.21
         }
     },
     "Bali": {
@@ -2278,13 +2758,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "BALI",
-                    "ANTAR_KELOMPOK_WARGA": 3,
-                    "WARGA_ANTAR_DESA": 0,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 3,
+                    "KONFLIK_WARGA_ANTAR_DESA": 0,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 718,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.418,
-                    "RASIO_WARGA_ANTAR_DESA": 0.0,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.418,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.0,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -2294,21 +2774,51 @@
                 {
                     "PROVINSI": "BALI",
                     "JUMLAH DESA": 718,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 83.75,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "BALI",
+                    "INDEKS_KEBEBASAN": 93.54,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "BALI",
+                    "INDEKS_KESETARAAN": 86.38,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "BALI",
+                    "INDEKS_KAPASITAS_LEMBAGA": 86.8,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 88.45,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 89.11,
-            "KESEJAHTERAAN SOSIAL": 71.69,
-            "KEAMANAN DARI KEKERASAN FISIK": 90.46
+            "KESEJAHTERAAN SOSIAL": 78.39,
+            "KEAMANAN DARI KEKERASAN FISIK": 90.46,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 95.85
         }
     },
     "Nusa Tenggara Barat": {
@@ -2414,13 +2924,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "NUSA TENGGARA BARAT",
-                    "ANTAR_KELOMPOK_WARGA": 16,
-                    "WARGA_ANTAR_DESA": 16,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 16,
+                    "KONFLIK_WARGA_ANTAR_DESA": 16,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 1180,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.356,
-                    "RASIO_WARGA_ANTAR_DESA": 1.356,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.356,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.356,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -2430,21 +2940,51 @@
                 {
                     "PROVINSI": "NUSA TENGGARA BARAT",
                     "JUMLAH DESA": 1180,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 2,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.085,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.169,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 2,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.085,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.169,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 68.74,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "NUSA TENGGARA BARAT",
+                    "INDEKS_KEBEBASAN": 67.75,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "NUSA TENGGARA BARAT",
+                    "INDEKS_KESETARAAN": 80.37,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "NUSA TENGGARA BARAT",
+                    "INDEKS_KAPASITAS_LEMBAGA": 76.57,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 66.64,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 63.54,
-            "KESEJAHTERAAN SOSIAL": 66.38,
-            "KEAMANAN DARI KEKERASAN FISIK": 76.3
+            "KESEJAHTERAAN SOSIAL": 67.92,
+            "KEAMANAN DARI KEKERASAN FISIK": 76.3,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 58.79
         }
     },
     "Nusa Tenggara Timur": {
@@ -2550,13 +3090,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "NUSA TENGGARA TIMUR",
-                    "ANTAR_KELOMPOK_WARGA": 97,
-                    "WARGA_ANTAR_DESA": 51,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 97,
+                    "KONFLIK_WARGA_ANTAR_DESA": 51,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 3538,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 2.742,
-                    "RASIO_WARGA_ANTAR_DESA": 1.441,
-                    "RASIO_ANTAR_SUKU": 0.028,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 2.742,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.441,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.028,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -2566,21 +3106,51 @@
                 {
                     "PROVINSI": "NUSA TENGGARA TIMUR",
                     "JUMLAH DESA": 3538,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 5,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 2,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.141,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.057,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 5,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 2,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.141,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.057,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 64.96,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "NUSA TENGGARA TIMUR",
+                    "INDEKS_KEBEBASAN": 85.48,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "NUSA TENGGARA TIMUR",
+                    "INDEKS_KESETARAAN": 81.19,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "NUSA TENGGARA TIMUR",
+                    "INDEKS_KAPASITAS_LEMBAGA": 85.83,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 70.03,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 51.64,
-            "KESEJAHTERAAN SOSIAL": 60.3,
-            "KEAMANAN DARI KEKERASAN FISIK": 82.95
+            "KESEJAHTERAAN SOSIAL": 62.95,
+            "KEAMANAN DARI KEKERASAN FISIK": 82.95,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 82.57
         }
     },
     "Kalimantan Barat": {
@@ -2686,13 +3256,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "KALIMANTAN BARAT",
-                    "ANTAR_KELOMPOK_WARGA": 7,
-                    "WARGA_ANTAR_DESA": 4,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 7,
+                    "KONFLIK_WARGA_ANTAR_DESA": 4,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 2157,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.325,
-                    "RASIO_WARGA_ANTAR_DESA": 0.185,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.325,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.185,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -2702,21 +3272,51 @@
                 {
                     "PROVINSI": "KALIMANTAN BARAT",
                     "JUMLAH DESA": 2157,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 66.56,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "KALIMANTAN BARAT",
+                    "INDEKS_KEBEBASAN": 92.3,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "KALIMANTAN BARAT",
+                    "INDEKS_KESETARAAN": 79.31,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "KALIMANTAN BARAT",
+                    "INDEKS_KAPASITAS_LEMBAGA": 88.33,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 72.92,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 55.76,
-            "KESEJAHTERAAN SOSIAL": 53.27,
-            "KEAMANAN DARI KEKERASAN FISIK": 90.65
+            "KESEJAHTERAAN SOSIAL": 56.43,
+            "KEAMANAN DARI KEKERASAN FISIK": 90.65,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 88.82
         }
     },
     "Kalimantan Tengah": {
@@ -2822,13 +3422,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "KALIMANTAN TENGAH",
-                    "ANTAR_KELOMPOK_WARGA": 4,
-                    "WARGA_ANTAR_DESA": 1,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 4,
+                    "KONFLIK_WARGA_ANTAR_DESA": 1,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 1577,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.254,
-                    "RASIO_WARGA_ANTAR_DESA": 0.063,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.254,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.063,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -2838,21 +3438,51 @@
                 {
                     "PROVINSI": "KALIMANTAN TENGAH",
                     "JUMLAH DESA": 1577,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 4,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.254,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 4,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.254,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 67.97,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "KALIMANTAN TENGAH",
+                    "INDEKS_KEBEBASAN": 89.31,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "KALIMANTAN TENGAH",
+                    "INDEKS_KESETARAAN": 77.1,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "KALIMANTAN TENGAH",
+                    "INDEKS_KAPASITAS_LEMBAGA": 77.62,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 71.52,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 56.7,
-            "KESEJAHTERAAN SOSIAL": 58.19,
-            "KEAMANAN DARI KEKERASAN FISIK": 89.03
+            "KESEJAHTERAAN SOSIAL": 63.98,
+            "KEAMANAN DARI KEKERASAN FISIK": 89.03,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 76.37
         }
     },
     "Kalimantan Selatan": {
@@ -2958,13 +3588,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "KALIMANTAN SELATAN",
-                    "ANTAR_KELOMPOK_WARGA": 2,
-                    "WARGA_ANTAR_DESA": 1,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 2,
+                    "KONFLIK_WARGA_ANTAR_DESA": 1,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 2015,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.099,
-                    "RASIO_WARGA_ANTAR_DESA": 0.05,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.099,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.05,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -2974,21 +3604,51 @@
                 {
                     "PROVINSI": "KALIMANTAN SELATAN",
                     "JUMLAH DESA": 2015,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 71.28,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "KALIMANTAN SELATAN",
+                    "INDEKS_KEBEBASAN": 78.57,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "KALIMANTAN SELATAN",
+                    "INDEKS_KESETARAAN": 80.33,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "KALIMANTAN SELATAN",
+                    "INDEKS_KAPASITAS_LEMBAGA": 84.95,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 73.35,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 60.06,
-            "KESEJAHTERAAN SOSIAL": 60.27,
-            "KEAMANAN DARI KEKERASAN FISIK": 93.49
+            "KESEJAHTERAAN SOSIAL": 65.18,
+            "KEAMANAN DARI KEKERASAN FISIK": 93.49,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 74.69
         }
     },
     "Kalimantan Timur": {
@@ -3094,13 +3754,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "KALIMANTAN TIMUR",
-                    "ANTAR_KELOMPOK_WARGA": 1,
-                    "WARGA_ANTAR_DESA": 1,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 1,
+                    "KONFLIK_WARGA_ANTAR_DESA": 1,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 1055,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.095,
-                    "RASIO_WARGA_ANTAR_DESA": 0.095,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.095,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.095,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -3110,21 +3770,51 @@
                 {
                     "PROVINSI": "KALIMANTAN TIMUR",
                     "JUMLAH DESA": 1055,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.095,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.095,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 73.93,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "KALIMANTAN TIMUR",
+                    "INDEKS_KEBEBASAN": 80.83,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "KALIMANTAN TIMUR",
+                    "INDEKS_KESETARAAN": 80.65,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "KALIMANTAN TIMUR",
+                    "INDEKS_KAPASITAS_LEMBAGA": 86.88,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 76.88,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 61.24,
-            "KESEJAHTERAAN SOSIAL": 76.96,
-            "KEAMANAN DARI KEKERASAN FISIK": 83.59
+            "KESEJAHTERAAN SOSIAL": 84.22,
+            "KEAMANAN DARI KEKERASAN FISIK": 83.59,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 78.45
         }
     },
     "Kalimantan Utara": {
@@ -3230,13 +3920,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "KALIMANTAN UTARA",
-                    "ANTAR_KELOMPOK_WARGA": 0,
-                    "WARGA_ANTAR_DESA": 0,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 0,
+                    "KONFLIK_WARGA_ANTAR_DESA": 0,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 484,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.0,
-                    "RASIO_WARGA_ANTAR_DESA": 0.0,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.0,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.0,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -3246,21 +3936,51 @@
                 {
                     "PROVINSI": "KALIMANTAN UTARA",
                     "JUMLAH DESA": 484,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.207,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.207,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 72.31,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "KALIMANTAN UTARA",
+                    "INDEKS_KEBEBASAN": 77.77,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "KALIMANTAN UTARA",
+                    "INDEKS_KESETARAAN": 80.76,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "KALIMANTAN UTARA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 84.69,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 74.4,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 56.94,
-            "KESEJAHTERAAN SOSIAL": 66.26,
-            "KEAMANAN DARI KEKERASAN FISIK": 93.74
+            "KESEJAHTERAAN SOSIAL": 72.73,
+            "KEAMANAN DARI KEKERASAN FISIK": 93.74,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 74.18
         }
     },
     "Sulawesi Utara": {
@@ -3366,13 +4086,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "SULAWESI UTARA",
-                    "ANTAR_KELOMPOK_WARGA": 29,
-                    "WARGA_ANTAR_DESA": 34,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 29,
+                    "KONFLIK_WARGA_ANTAR_DESA": 34,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 1838,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.578,
-                    "RASIO_WARGA_ANTAR_DESA": 1.85,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.578,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.85,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -3382,21 +4102,51 @@
                 {
                     "PROVINSI": "SULAWESI UTARA",
                     "JUMLAH DESA": 1838,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 1,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.054,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 1,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.054,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 67.96,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "SULAWESI UTARA",
+                    "INDEKS_KEBEBASAN": 70.85,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "SULAWESI UTARA",
+                    "INDEKS_KESETARAAN": 73.52,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "SULAWESI UTARA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 74.61,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 66.4,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 58.68,
-            "KESEJAHTERAAN SOSIAL": 66.78,
-            "KEAMANAN DARI KEKERASAN FISIK": 78.41
+            "KESEJAHTERAAN SOSIAL": 74.96,
+            "KEAMANAN DARI KEKERASAN FISIK": 78.41,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 53.57
         }
     },
     "Sulawesi Tengah": {
@@ -3502,13 +4252,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "SULAWESI TENGAH",
-                    "ANTAR_KELOMPOK_WARGA": 9,
-                    "WARGA_ANTAR_DESA": 16,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 9,
+                    "KONFLIK_WARGA_ANTAR_DESA": 16,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 2022,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.445,
-                    "RASIO_WARGA_ANTAR_DESA": 0.791,
-                    "RASIO_ANTAR_SUKU": 0.049,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.445,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.791,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.049,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -3518,21 +4268,51 @@
                 {
                     "PROVINSI": "SULAWESI TENGAH",
                     "JUMLAH DESA": 2022,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 1,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.049,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.049,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 1,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.049,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.049,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 68.73,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "SULAWESI TENGAH",
+                    "INDEKS_KEBEBASAN": 84.46,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "SULAWESI TENGAH",
+                    "INDEKS_KESETARAAN": 78.93,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "SULAWESI TENGAH",
+                    "INDEKS_KAPASITAS_LEMBAGA": 77.02,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 71.15,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 51.88,
-            "KESEJAHTERAAN SOSIAL": 65.84,
-            "KEAMANAN DARI KEKERASAN FISIK": 88.47
+            "KESEJAHTERAAN SOSIAL": 71.01,
+            "KEAMANAN DARI KEKERASAN FISIK": 88.47,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 73.23
         }
     },
     "Sulawesi Selatan": {
@@ -3638,13 +4418,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "SULAWESI SELATAN",
-                    "ANTAR_KELOMPOK_WARGA": 41,
-                    "WARGA_ANTAR_DESA": 32,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 41,
+                    "KONFLIK_WARGA_ANTAR_DESA": 32,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 3060,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.34,
-                    "RASIO_WARGA_ANTAR_DESA": 1.046,
-                    "RASIO_ANTAR_SUKU": 0.033,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.34,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.046,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.033,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -3654,21 +4434,51 @@
                 {
                     "PROVINSI": "SULAWESI SELATAN",
                     "JUMLAH DESA": 3060,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 2,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 1,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.065,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.033,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 2,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 1,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.065,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.033,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 66.48,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "SULAWESI SELATAN",
+                    "INDEKS_KEBEBASAN": 79.51,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "SULAWESI SELATAN",
+                    "INDEKS_KESETARAAN": 83.24,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "SULAWESI SELATAN",
+                    "INDEKS_KAPASITAS_LEMBAGA": 82.83,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 70.25,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 55.99,
-            "KESEJAHTERAAN SOSIAL": 66.9,
-            "KEAMANAN DARI KEKERASAN FISIK": 76.55
+            "KESEJAHTERAAN SOSIAL": 71.53,
+            "KEAMANAN DARI KEKERASAN FISIK": 76.55,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 76.93
         }
     },
     "Sulawesi Tenggara": {
@@ -3774,13 +4584,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "SULAWESI TENGGARA",
-                    "ANTAR_KELOMPOK_WARGA": 23,
-                    "WARGA_ANTAR_DESA": 32,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 23,
+                    "KONFLIK_WARGA_ANTAR_DESA": 32,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 2292,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.003,
-                    "RASIO_WARGA_ANTAR_DESA": 1.396,
-                    "RASIO_ANTAR_SUKU": 0.044,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.003,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.396,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.044,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -3790,21 +4600,51 @@
                 {
                     "PROVINSI": "SULAWESI TENGGARA",
                     "JUMLAH DESA": 2292,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 1,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.044,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.044,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 1,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.044,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.044,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 71.66,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "SULAWESI TENGGARA",
+                    "INDEKS_KEBEBASAN": 85.99,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "SULAWESI TENGGARA",
+                    "INDEKS_KESETARAAN": 81.56,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "SULAWESI TENGGARA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 76.93,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 74.52,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 53.88,
-            "KESEJAHTERAAN SOSIAL": 71.75,
-            "KEAMANAN DARI KEKERASAN FISIK": 89.34
+            "KESEJAHTERAAN SOSIAL": 77.7,
+            "KEAMANAN DARI KEKERASAN FISIK": 89.34,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 77.18
         }
     },
     "Gorontalo": {
@@ -3910,13 +4750,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "GORONTALO",
-                    "ANTAR_KELOMPOK_WARGA": 9,
-                    "WARGA_ANTAR_DESA": 8,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 9,
+                    "KONFLIK_WARGA_ANTAR_DESA": 8,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 732,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.23,
-                    "RASIO_WARGA_ANTAR_DESA": 1.093,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.23,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.093,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -3926,21 +4766,51 @@
                 {
                     "PROVINSI": "GORONTALO",
                     "JUMLAH DESA": 732,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 3,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 3,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.41,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.41,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 3,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 3,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.41,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.41,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 63.67,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "GORONTALO",
+                    "INDEKS_KEBEBASAN": 65.56,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "GORONTALO",
+                    "INDEKS_KESETARAAN": 81.77,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "GORONTALO",
+                    "INDEKS_KAPASITAS_LEMBAGA": 78.65,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 63.49,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 61.7,
-            "KESEJAHTERAAN SOSIAL": 60.28,
-            "KEAMANAN DARI KEKERASAN FISIK": 69.04
+            "KESEJAHTERAAN SOSIAL": 63.64,
+            "KEAMANAN DARI KEKERASAN FISIK": 69.04,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 59.59
         }
     },
     "Sulawesi Barat": {
@@ -4046,13 +4916,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "SULAWESI BARAT",
-                    "ANTAR_KELOMPOK_WARGA": 2,
-                    "WARGA_ANTAR_DESA": 1,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 2,
+                    "KONFLIK_WARGA_ANTAR_DESA": 1,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 650,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.308,
-                    "RASIO_WARGA_ANTAR_DESA": 0.154,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.308,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.154,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -4062,21 +4932,51 @@
                 {
                     "PROVINSI": "SULAWESI BARAT",
                     "JUMLAH DESA": 650,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 0,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 69.74,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "SULAWESI BARAT",
+                    "INDEKS_KEBEBASAN": 71.34,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "SULAWESI BARAT",
+                    "INDEKS_KESETARAAN": 78.62,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "SULAWESI BARAT",
+                    "INDEKS_KAPASITAS_LEMBAGA": 79.43,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 68.81,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 56.08,
-            "KESEJAHTERAAN SOSIAL": 56.63,
-            "KEAMANAN DARI KEKERASAN FISIK": 96.52
+            "KESEJAHTERAAN SOSIAL": 60.21,
+            "KEAMANAN DARI KEKERASAN FISIK": 96.52,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 62.41
         }
     },
     "Maluku": {
@@ -4182,13 +5082,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "MALUKU",
-                    "ANTAR_KELOMPOK_WARGA": 79,
-                    "WARGA_ANTAR_DESA": 64,
-                    "ANTAR_SUKU": 5,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 79,
+                    "KONFLIK_WARGA_ANTAR_DESA": 64,
+                    "KONFLIK_ANTAR_SUKU": 5,
                     "JUMLAH DESA": 1262,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 6.26,
-                    "RASIO_WARGA_ANTAR_DESA": 5.071,
-                    "RASIO_ANTAR_SUKU": 0.396,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 6.26,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 5.071,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.396,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -4198,21 +5098,51 @@
                 {
                     "PROVINSI": "MALUKU",
                     "JUMLAH DESA": 1262,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 3,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 8,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.238,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.634,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 3,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 8,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.238,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.634,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 65.24,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "MALUKU",
+                    "INDEKS_KEBEBASAN": 83.13,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "MALUKU",
+                    "INDEKS_KESETARAAN": 69.65,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "MALUKU",
+                    "INDEKS_KAPASITAS_LEMBAGA": 69.99,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 65.49,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 61.36,
-            "KESEJAHTERAAN SOSIAL": 80.58,
-            "KEAMANAN DARI KEKERASAN FISIK": 53.79
+            "KESEJAHTERAAN SOSIAL": 88.85,
+            "KEAMANAN DARI KEKERASAN FISIK": 53.79,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 57.95
         }
     },
     "Maluku Utara": {
@@ -4318,13 +5248,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "MALUKU UTARA",
-                    "ANTAR_KELOMPOK_WARGA": 78,
-                    "WARGA_ANTAR_DESA": 72,
-                    "ANTAR_SUKU": 3,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 78,
+                    "KONFLIK_WARGA_ANTAR_DESA": 72,
+                    "KONFLIK_ANTAR_SUKU": 3,
                     "JUMLAH DESA": 1209,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 6.452,
-                    "RASIO_WARGA_ANTAR_DESA": 5.955,
-                    "RASIO_ANTAR_SUKU": 0.248,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 6.452,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 5.955,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.248,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -4334,21 +5264,51 @@
                 {
                     "PROVINSI": "MALUKU UTARA",
                     "JUMLAH DESA": 1209,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 5,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 4,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.414,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.331,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 5,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 4,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.414,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.331,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 63.32,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "MALUKU UTARA",
+                    "INDEKS_KEBEBASAN": 72.86,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "MALUKU UTARA",
+                    "INDEKS_KESETARAAN": 64.45,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "MALUKU UTARA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 75.45,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 60.73,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 60.16,
-            "KESEJAHTERAAN SOSIAL": 70.85,
-            "KEAMANAN DARI KEKERASAN FISIK": 58.96
+            "KESEJAHTERAAN SOSIAL": 76.67,
+            "KEAMANAN DARI KEKERASAN FISIK": 58.96,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 47.12
         }
     },
     "Papua": {
@@ -4454,13 +5414,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "PAPUA",
-                    "ANTAR_KELOMPOK_WARGA": 28,
-                    "WARGA_ANTAR_DESA": 6,
-                    "ANTAR_SUKU": 2,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 28,
+                    "KONFLIK_WARGA_ANTAR_DESA": 6,
+                    "KONFLIK_ANTAR_SUKU": 2,
                     "JUMLAH DESA": 1029,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 2.721,
-                    "RASIO_WARGA_ANTAR_DESA": 0.583,
-                    "RASIO_ANTAR_SUKU": 0.194,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 2.721,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.583,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.194,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -4470,21 +5430,51 @@
                 {
                     "PROVINSI": "PAPUA",
                     "JUMLAH DESA": 1029,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 4,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 4,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.389,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.389,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 4,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 4,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.389,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.389,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 66.28,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "PAPUA",
+                    "INDEKS_KEBEBASAN": 73.79,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "PAPUA",
+                    "INDEKS_KESETARAAN": 67.52,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "PAPUA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 59.52,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 61.48,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 54.73,
-            "KESEJAHTERAAN SOSIAL": 74.75,
-            "KEAMANAN DARI KEKERASAN FISIK": 69.37
+            "KESEJAHTERAAN SOSIAL": 81.99,
+            "KEAMANAN DARI KEKERASAN FISIK": 69.37,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 39.84
         }
     },
     "Papua Barat": {
@@ -4590,13 +5580,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "PAPUA BARAT",
-                    "ANTAR_KELOMPOK_WARGA": 17,
-                    "WARGA_ANTAR_DESA": 6,
-                    "ANTAR_SUKU": 0,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 17,
+                    "KONFLIK_WARGA_ANTAR_DESA": 6,
+                    "KONFLIK_ANTAR_SUKU": 0,
                     "JUMLAH DESA": 970,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.753,
-                    "RASIO_WARGA_ANTAR_DESA": 0.619,
-                    "RASIO_ANTAR_SUKU": 0.0,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.753,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.619,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -4606,21 +5596,51 @@
                 {
                     "PROVINSI": "PAPUA BARAT",
                     "JUMLAH DESA": 970,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.103,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.103,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 67.79,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "PAPUA BARAT",
+                    "INDEKS_KEBEBASAN": 57.7,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "PAPUA BARAT",
+                    "INDEKS_KESETARAAN": 65.3,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "PAPUA BARAT",
+                    "INDEKS_KAPASITAS_LEMBAGA": 54.7,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 56.31,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 55.17,
-            "KESEJAHTERAAN SOSIAL": 56.99,
-            "KEAMANAN DARI KEKERASAN FISIK": 91.23
+            "KESEJAHTERAAN SOSIAL": 59.52,
+            "KEAMANAN DARI KEKERASAN FISIK": 91.23,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 19.32
         }
     },
     "Papua Selatan": {
@@ -4714,13 +5734,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "PAPUA SELATAN",
-                    "ANTAR_KELOMPOK_WARGA": 27,
-                    "WARGA_ANTAR_DESA": 10,
-                    "ANTAR_SUKU": 1,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 27,
+                    "KONFLIK_WARGA_ANTAR_DESA": 10,
+                    "KONFLIK_ANTAR_SUKU": 1,
                     "JUMLAH DESA": 690,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 3.913,
-                    "RASIO_WARGA_ANTAR_DESA": 1.449,
-                    "RASIO_ANTAR_SUKU": 0.145,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 3.913,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 1.449,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.145,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -4730,21 +5750,51 @@
                 {
                     "PROVINSI": "PAPUA SELATAN",
                     "JUMLAH DESA": 690,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 0,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.145,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.145,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.0,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 61.44,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "PAPUA SELATAN",
+                    "INDEKS_KEBEBASAN": 77.13,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "PAPUA SELATAN",
+                    "INDEKS_KESETARAAN": 58.91,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "PAPUA SELATAN",
+                    "INDEKS_KAPASITAS_LEMBAGA": 40.94,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 52.68,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 50.99,
-            "KESEJAHTERAAN SOSIAL": 55.46,
-            "KEAMANAN DARI KEKERASAN FISIK": 77.87
+            "KESEJAHTERAAN SOSIAL": 60.38,
+            "KEAMANAN DARI KEKERASAN FISIK": 77.87,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 21.47
         }
     },
     "Papua Tengah": {
@@ -4838,13 +5888,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "PAPUA TENGAH",
-                    "ANTAR_KELOMPOK_WARGA": 14,
-                    "WARGA_ANTAR_DESA": 8,
-                    "ANTAR_SUKU": 10,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 14,
+                    "KONFLIK_WARGA_ANTAR_DESA": 8,
+                    "KONFLIK_ANTAR_SUKU": 10,
                     "JUMLAH DESA": 1208,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 1.159,
-                    "RASIO_WARGA_ANTAR_DESA": 0.662,
-                    "RASIO_ANTAR_SUKU": 0.828,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 1.159,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.662,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.828,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -4854,21 +5904,51 @@
                 {
                     "PROVINSI": "PAPUA TENGAH",
                     "JUMLAH DESA": 1208,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 6,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 5,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.497,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.414,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 6,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 5,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.497,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.414,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 38.68,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "PAPUA TENGAH",
+                    "INDEKS_KEBEBASAN": 72.93,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "PAPUA TENGAH",
+                    "INDEKS_KESETARAAN": 59.62,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "PAPUA TENGAH",
+                    "INDEKS_KAPASITAS_LEMBAGA": 45.3,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 34.95,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 49.01,
-            "KESEJAHTERAAN SOSIAL": 9.19,
-            "KEAMANAN DARI KEKERASAN FISIK": 57.83
+            "KESEJAHTERAAN SOSIAL": 11.66,
+            "KEAMANAN DARI KEKERASAN FISIK": 57.83,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 21.32
         }
     },
     "Papua Pegunungan": {
@@ -4974,13 +6054,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "PAPUA PEGUNUNGAN",
-                    "ANTAR_KELOMPOK_WARGA": 25,
-                    "WARGA_ANTAR_DESA": 8,
-                    "ANTAR_SUKU": 14,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 25,
+                    "KONFLIK_WARGA_ANTAR_DESA": 8,
+                    "KONFLIK_ANTAR_SUKU": 14,
                     "JUMLAH DESA": 2634,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 0.949,
-                    "RASIO_WARGA_ANTAR_DESA": 0.304,
-                    "RASIO_ANTAR_SUKU": 0.532,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 0.949,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.304,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.532,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -4990,21 +6070,51 @@
                 {
                     "PROVINSI": "PAPUA PEGUNUNGAN",
                     "JUMLAH DESA": 2634,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 2,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 2,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.076,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.076,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 2,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 2,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.076,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.076,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 45.07,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "PAPUA PEGUNUNGAN",
+                    "INDEKS_KEBEBASAN": 71.55,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "PAPUA PEGUNUNGAN",
+                    "INDEKS_KESETARAAN": 55.45,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "PAPUA PEGUNUNGAN",
+                    "INDEKS_KAPASITAS_LEMBAGA": 42.31,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 36.36,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 45.72,
-            "KESEJAHTERAAN SOSIAL": 3.61,
-            "KEAMANAN DARI KEKERASAN FISIK": 85.88
+            "KESEJAHTERAAN SOSIAL": 0.0,
+            "KEAMANAN DARI KEKERASAN FISIK": 85.88,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 13.84
         }
     },
     "Papua Barat Daya": {
@@ -5098,13 +6208,13 @@
             "KONFLIK KOMUNAL": [
                 {
                     "PROVINSI": "PAPUA BARAT DAYA",
-                    "ANTAR_KELOMPOK_WARGA": 36,
-                    "WARGA_ANTAR_DESA": 9,
-                    "ANTAR_SUKU": 2,
+                    "KONFLIK_ANTAR_KELOMPOK_WARGA": 36,
+                    "KONFLIK_WARGA_ANTAR_DESA": 9,
+                    "KONFLIK_ANTAR_SUKU": 2,
                     "JUMLAH DESA": 1056,
-                    "RASIO_ANTAR_KELOMPOK_WARGA": 3.409,
-                    "RASIO_WARGA_ANTAR_DESA": 0.852,
-                    "RASIO_ANTAR_SUKU": 0.189,
+                    "RASIO_KONFLIK_ANTAR_KELOMPOK_WARGA": 3.409,
+                    "RASIO_KONFLIK_WARGA_ANTAR_DESA": 0.852,
+                    "RASIO_KONFLIK_ANTAR_SUKU": 0.189,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KONFLIK KOMUNAL",
                     "TAHUN": 2025
@@ -5114,21 +6224,51 @@
                 {
                     "PROVINSI": "PAPUA BARAT DAYA",
                     "JUMLAH DESA": 1056,
-                    "WARGA_DENGAN_APARAT_KEAMANAN": 1,
-                    "WARGA_DENGAN_APARAT_PEMERINTAH": 1,
-                    "RASIO_WARGA_DENGAN_APARAT_KEAMANAN": 0.095,
-                    "RASIO_WARGA_DENGAN_APARAT_PEMERINTAH": 0.095,
+                    "KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 1,
+                    "KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 1,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_KEAMANAN": 0.095,
+                    "RASIO_KONFLIK_WARGA_DENGAN_APARAT_PEMERINTAH": 0.095,
                     "DIMENSI": "KEAMANAN DARI KEKERASAN FISIK",
                     "VARIABEL": "KEKERASAN NEGARA-MASYARAKAT",
                     "TAHUN": 2025
                 }
             ]
         },
-        "IKMI_SCORE": 68.87,
+        "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": {
+            "KEBEBASAN BERKEYAKINAN": [
+                {
+                    "PROVINSI": "PAPUA BARAT DAYA",
+                    "INDEKS_KEBEBASAN": 68.88,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN BERKEYAKINAN",
+                    "TAHUN": 2025
+                }
+            ],
+            "KEBEBASAN DARI DISKRIMINASI": [
+                {
+                    "PROVINSI": "PAPUA BARAT DAYA",
+                    "INDEKS_KESETARAAN": 64.25,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "KEBEBASAN DARI DISKRIMINASI",
+                    "TAHUN": 2025
+                }
+            ],
+            "POLITIK DAN PEMIKIRAN": [
+                {
+                    "PROVINSI": "PAPUA BARAT DAYA",
+                    "INDEKS_KAPASITAS_LEMBAGA": 58.64,
+                    "DIMENSI": "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN",
+                    "VARIABEL": "POLITIK DAN PEMIKIRAN",
+                    "TAHUN": 2025
+                }
+            ]
+        },
+        "IKMI_SCORE": 60.33,
         "DIMENSION_SCORES": {
             "KEAMANAN DARI BENCANA": 52.87,
-            "KESEJAHTERAAN SOSIAL": 67.25,
-            "KEAMANAN DARI KEKERASAN FISIK": 86.5
+            "KESEJAHTERAAN SOSIAL": 70.5,
+            "KEAMANAN DARI KEKERASAN FISIK": 86.5,
+            "PERLINDUNGAN DAN PEMANFAATAN ATAS KEBHINNEKAAN": 31.44
         }
     }
 }
