@@ -183,7 +183,7 @@ if check_password():
         
         target_dim = dimensi_mapping.get(selected_indeks)
         if target_dim == 'ALL':
-            table_raw_cols = all_indicators
+            table_raw_cols = []
             active_indeks_cols = indeks_data # Jika ALL, tampilkan seluruh indeks
         else:
             target_vars = [var for var, dim in var_to_dim.items() if dim == target_dim]
